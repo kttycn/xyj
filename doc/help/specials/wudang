@@ -1,0 +1,32 @@
+
+[1;36m¡¾ÔÂÓ°ÆæÔµÌØ±ð°ïÖú¡¿[2;37;0m
+
+©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤[1;31m¡¾Îäµ±É½³ýÄ§¡¿[2;37;0m©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤
+			
+¡¡¡¡Îäµ±É½Î»ÓÚ¿ª·âÎ÷ÄÏ fly kaifeng,w,sw¡£
+
+¡¡¡¡Ì«ºÍ¹¬£ºµ´Ä§Ìì×ð£¨ master dangmo£©ÍþÕò°Ë·½£¬Í³ÉãÕæÎäÖ®
+Î»£¬¼ô·¥ÌìÏÂÑýÐ°£¬ÄË·îÓñµÛÖ¼Òâ£»ºóÓÖÅû·¢õÐ×ã£¬Ì¤ÌÚÉßÉñ¹ê£¬Áì
+ÎåÀ×Éñ½«£¬¾Þò°Ê¨×Ó£¬ÃÍÊÞ¶¾Áú£¬ÊÕ½µ¶«±±·½ºÚÆøÑý·Õ£¬ÄË·îÔªÊ¼Ìì
+×ð·ûÕÙ¡£½ñÈÕ¾²ÏíÎäµ±É½£¬°²ÒÝÌ«ºÍµî¡£
+
+¡¡¡¡Ö÷Òªnpc£º¹ê¡¢Éß¶þ½«£¬Îå´óÉñÁú¡£
+
+³ýÄ§ÈÎÎñ
+    (1)ÁìÈÎÎñ
+	ask XXX(jiang) about ³ýÄ§(kill)
+    (2)×öÈÎÎñ
+    	ÏÈ   find (ÄãµÄid) yao
+    	È»ºó kill (ÄãµÄid) yao
+    (3)Íê³É»ò½â³ýÈÎÎñ
+    	É±ËÀÑý
+    	»òÕß give XX silver to (ÄãµÄid) yao
+    	»òÕß give XX silver to jiang
+    (4)½±Àø
+    	Ëæ»úÌá¹©µÀÐÐ¡¢¼¼ÄÜ¡¢Ç±ÄÜ¡¢Òø×ÓµÈ½±Àø£¬±È½Ï·áºñ¡£
+    (5)×¢Òâ
+	ÄãÒª³ýµôÑý×ÜÊÇ±ÈÄã¸ßÄÇÃ´Ò»µãµã£¬ËùÒÔÄãÒ»¶¨¼ÇµÃÒª×°±¸ÉÏ
+	ºÃµÄÎäÆ÷£¬Òª°ÑÄÚÁ¦·¨Á¦µ÷Õûµ½×î¼Ñ×´Ì¬£¬·ñÔò±»nkÖ»ÄÜ×ÔÈÏ
+	µ¹Ã¹°É¡£
+
+©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤[35m¡¾ÔÂÓ°ÆæÔµ¡¿[2;37;0m©¤©¤©¤

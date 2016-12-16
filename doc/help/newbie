@@ -1,0 +1,211 @@
+
+[1;36m¡¾ÔÂÓ°ÆæÔµ¡¿[2;37;0m
+
+©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤[1;31m¡¾ÐÂÊÖÖ¸ÄÏ¡¿[2;37;0m©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤
+
+¡¡¡¡¶ÔÒ»¸ö¸Õ½üÈëÔÂÓ°ÆæÔµµÄÐÂÊÖÀ´Ëµ£¬ÈçºÎÔÚÒ»¸öÈËÉñ¹í¹ÖµÄÊÀ
+½çÖÐÉú´æÏÂÈ¥ÊÇ×îÖØÒªµÄ£¬ÒÔÏÂÖ®ÊÇ¼¸µãÐ¡Ð¡µÄ½¨ÒéÖ¸ÄÏ¡£
+
+£±¡£½øÈë£º
+¡¡¡¡½øÈëÔÂÓ°ÆæÔµ£¬Äã»á×îÏÈ³öÏÖÔÚ³¤°²³ÇµÄÄÏ³Ç¿ÍÕ»¡£¿ÍÕ»ÖÐÓÐ
+Ò»¿éÔÂÓ°ÆæÔµ×î´óµÄ¸æÊ¾°å£¬Íæ¼ÒÒâ¼ûµÄ½»Á÷£¬Î×Ê¦¶ÔÎÊÌâµÄ·´À¡
+¼°×îÐÂ¸ü¸Ä¶¼»áÔÚÉÏÃæ¡£µ¹²»·ÁÏÈ¾²ÏÂÐÄ¶ÁÒ»¶Á£¬Ò²Ðí¶ÔÒÔºóµÄ½ø
+³Ì´óÓÐºÃ´¦¡£
+
+Ïà¹ØÃüÁî£º(help board)
+
+£²¡£×´Ì¬£º
+¡¡¡¡¸Õ½øÈëÊ±£¬ÄãµÄÊ³ÎïºÍÒûË®¶¼ÊÇ¿ÕµÄ£¬µ«ÊÇÄã²»±Ø¾ª»Å¡£ÔÚÕâ
+¸öÓÎÏ·ÖÐËäÈ»»á¶öËÀ¡¢¿ÊËÀ£¬µ«ÊÇÎÒÃÇÒÑ¾­ÎªÄã×¼±¸ÁËÏàµ±³ä×ãµÄ
+Ê³ÎïºÍÒûË®¡£µ±ÊäÈë hpÖ¸ÁîÊ±£¬Äã»á¿´µ½Ò»Ð©ÈçÏÂµÄÏûÏ¢£º
+ Ê³Îï£º  10000/310
+ ÒûË®£º  10000/310
+/Ç°ÃæµÄÊý×Ö±íÊ¾ÄãÏÖÔÚµÄ×´¿ö£¬/ºóÃæµÄÊÇÄãÊ³Á¿µÄ´óÐ¡¡£µ±ÄãÏÖ
+ÔÚµÄÊ³ÎïºÍÒûË®ÖµÎªÁãÊ±£¬Äã¾ÍÒªÂíÉÏÈ¥³Ô¶«Î÷ºÍºÈË®ÁË£¬·ñÔò¡­¡­
+ÒÔºó¾ÍÐèÒªÄã×Ô¼ºÎª×Ô¼º×¼±¸Ê³ÎïºÍÒûË®ÁË¡£
+
+¡¡¡¡µ±ÄãµÄÊ³ÎïºÍÒûË®¼õÉÙÊ±£¬¾ÍÓ¦¸Ã×¢ÒâÒªÂòÐ©Ê³ÎïºÍÒûË®ÒÔ²¹
+³ä×ÔÉíÄÜÁ¿¡£
+
+¡¡¡¡ÔÚ¿ÍÕ»£¬¾ÆÂ¥ÊäÈë list Ö¸ÁîÊ±£¬Äã»á¿´µ½Ò»Ð©ÈçÏÂµÄÏûÏ¢£º
+
+Äã¿ÉÒÔÏòµêÐ¡¶þ¹ºÂòÏÂÁÐÎïÆ·£º
+¹ð»¨¾Æ´ü(jiudai)              £º1Á½Òø×Ó
+»¨Éú¶¹(huasheng)              £º20ÎÄÇ®
+Õ¨¼¦ÍÈ(jitui)                 £º80ÎÄÇ®
+ÏÂÆåÖ¸ÄÏ(zhinan)              £º1Á½Òø×Ó
+ºìÉÕ¹·Èâ(gourou)              £º2Á½Òø×Ó
+
+Âò¶«Î÷µÄÃüÁîÊÇ buy <¶«Î÷> from <Ä³ÈË>
+Èç¹ûÄãÒªÂò¿¾¼¦ÍÈµÄ»°¾ÍÊÇ£ºbuy jitui from xiao er
+ÔÚ±øÆ÷ÆÌ£¬²¼×¯£¬Ò²ÊÇÍ¬ÑùÃüÁî¡£
+£¨×¢£ºÔÚµ±ÆÌÂÔÓÐ²»Í¬£¬Ö»ÐèÓÃ buy¡´ÎïÆ·Ãû³Æ¡µ¼´¿É£©
+
+Ïà¹ØÃüÁî£ºhp, list, buy, i, drink, eat
+
+¡¡¡¡ÁíÍâ»¹ÓÐ£º
+ Æø  £º  113/  113 (100%)    ÄÚÁ¦£º   54 /   54 (+3)
+ Éñ  £º  100/  100 (100%)    ·¨Á¦£º   23 /   33 (+1)
+ÆøºÍÉñµÄ¶¨ÒåºÍÓÃ´¦¿ÉÒÔ²Î¿¼  help basic£¬ÕâÀïÏÈ¼òµ¥µÄ½éÉÜÒ»
+ÏÂ¡£Æø´ú±íµÄÊÇÈËµÄÈâÌå£¬ÈË±ØÐëÓÐÆø²ÅÄÜÉú´æ¡£Ëü»áËæÄêÁä±ä»¯£¬
+Ò²ÊÜµ½ÄÚÁ¦Ó°Ïì¡£Éñ¾ÍÊÇÈËµÄ¾«Éñ£¬Ñ§Ï°ÈÎºÎÐÂµÄ¼¼ÄÜ¡¢ÖªÊ¶¡¢Îä
+¹¦¶¼ÐèÒªºÄ·ÑÉñ¡£ÄÚÁ¦ÊÇÈËµÄÄÜÁ¿£¬µ±ÄãÑ§ÁË»ù±¾ÄÚ¹¦¼°ÌØÊâÄÚ¹¦
+ºóÓ¦¾¡¿ì½«Æø×ªÎªÄÚÁ¦´¢±¸ÆðÀ´¡£·¨Á¦ÔòÊÇ±È½Ï³éÏóµÄ¾«ÉñÉÏµÄÄÜ
+Á¿£¬ÓÐÁË·¨Á¦²ÅÄÜÊ©Õ¹·¨Êõ¡£Ïé¼û help stats¡£
+
+Ïà¹ØÃüÁî£ºexercise, meditate, enforce, enchant
+
+£³¡£½»Á÷£º
+¡¡¡¡ÔÂÓ°ÆæÔµÌá¹©µÄ²»½öÊÇÒ»¸öÇóÏÉ·ÃµÀ£¬Á·¹¦Ï°ÎäµÄÊÀ½ç£¬Ò²ÊÇ
+Ò»¸ö½»Á÷ÐÅÏ¢£¬ÈÏÊ¶ÅóÓÑµÄºÃ³¡Ëù¡£ÅóÓÑ¶àÁËºÃ°ìÊÂ£¬ÓÐÊ±½»ÉÏÒ»
+¸öºÃÅóÓÑÒ²¶ÔÒ»ÉúÓÐºÜ´óµÄÓ°Ïì¡£
+
+ chat 		£ºËµÈÃËùÓÐÈË¶¼ÄÜÌýµ½µÄ»°¡£
+ chat* (semote)	£ºÀûÓÃÏµÍ³ÄÚ½¨Á¢µÄ¶Ô»°¼°¶¯×÷¡£
+
+  Èç£ºchat hi£¬Äã¿É¿´µ½£º
+¡¾ÏÐÁÄ¡¿·Æ·É(Fei)£ºhi
+
+  Èç£ºchat* hi£¬Äã¿É¿´µ½£º
+¡¾ÏÐÁÄ¡¿·Æ·ÉË«ÊÖ±§È­£¬×÷ÁË¸öÒ¾µÀ£º¸÷Î»ÏÉ³¤ÇëÁË£¡
+
+ÖÁÓÚÓÐÄÄÐ© (semote)£¬ ¿ÉÒÔÓÃ semote ÃüÁî²éÑ¯¡£ 
+Ë½ÈË¼äµÄ½»Ì¸ÔòÊÇ say(Ëµ), tell(¸æËß), reply(´ð¸´)
+ÇëÓÃ help À´ÁË½â¾ßÌåÓÃ·¨¡£
+
+Ïà¹ØÃüÁî£ºchat, chat*, rumor, rumor*, xyj, semote
+	  say, tell, reply, whisper, tune
+
+£´¡£°ÝÊ¦£º
+¡¡¡¡ÔÂÓ°ÆæÔµÀïÊ¦¸¸ºÜ¶à£¬Ã¿¸öÃÅÅÉ¶¼ÓÐ×Ô¼ºµÄÌØµã£¬²¢ÇÒ¸÷¸öÃÅ
+ÅÉ¶¼ÓÐ×Ô¼ºµÄÒªÇó¡£Äã¿ÉÒÔ¸ù¾Ý×Ô¼ºµÄ°®»¶µÄÊ¦¸¸¡£Ê¦¸¸ÃÇµÄÇé¿ö
+¶¼ÓÐ¼ÇÂ¼£¬ÄãÒ²¿ÉÒÔÏòÖÜÎ§µÄÍæ¼Ò´òÌý¡£¸ú×ÅµØÍ¼×ß£¬¾Í¿ÉÒÔÕÒµ½
+Ê¦¸¸¾Ó×¡µÄµØ·½¡£µ«Èç¹û²»ÊÕµÄ»°£¬Ò²²»Òª»ÒÐÄ£¬ÓÐÐ©Ê¦¸¸Ò²ÊÇÓÐ
+ÒªÇóµÄ¡£¿ÉÒÔÏÈ°ÝÍ¬ÃÅÖÐµÍ¼¶µÄ£¬ÂýÂý¾Í»á´ïµ½ÒªÇóµÄ¡£ÓÉÓÚÔÂÓ°
+ÆæÔµÊÇÒ»¸öÉñ»°ÊÀ½ç£¬ÈËÉñ¹í¹Ö²¢´æ£¬ÃÅÅÉÖÐµÄÒªÇóÒ²²»Ò»Ñù£¬Ò»
+¶¨Òª¸ãÇå³þÇé¿öºóÔÙ¾ö¶¨Í¶ÈëÄÄÒ»ÅÉ¡£½øÈçÄ³Ò»ÃÅÅÉºóÄãµÄ³ÆºôºÍ
+Í·ÏÎ¶¼»áÓÐÏàÓ¦µÄ±ä»¯¡£Èçµ±ÁËºÍÉÐ£¬±ðÈË»á×ð³ÆÄãÎª´óÊ¦£¬Ò²»á
+ÂîÄãÊÇÍºÂ¿µÈ¡£ÄãµÄ³ÆºôºÍÍ·ÏÎ»áËæ×ÅÄêÁä£¬µÀÐÐ¼°Ê¦¸¸¶øÓÐËù¸ü
+¸Ä¡£
+
+Ïà¹ØÃüÁî£ºhelp maps, help menpai, help apprentice
+	  help rank, help title
+
+£µ¡£Ñ§ÒÕ£º
+¡¡¡¡°ÝÊ¦ºó¾Í¿ÉÒÔÏòÊ¦¸¸Ñ§ÒÕÁË£¬ÊäÈë skills (Ê¦¸¸Ãû) ¾Í¿ÉÒÔ¿´
+µ½×Ô¼ºµÄÊ¦¸¸ÓÐÊ²Ã´¹¦·ò¡£Ñ§ÒÕµÄÃüÁîÊÇ learn (¹¦·ò) from (Ê¦
+¸¸)µ±Ñ§Ï°ÁËÒ»Ð©¹¦·òºóÊäÈë skills Ö¸ÁîºóÄã¿É¿´µ½×Ô¼ºµÄ¹©·ò¡£
+
+ÄãÄ¿Ç°ËùÑ§¹ýµÄ¼¼ÄÜ£º
+  »ù±¾ÕÐ¼Ü (parry)                - ³õÑ§Õ§Á·   2/    0
+  »ù±¾ÄÚ¹¦ (force)                - ³õÑ§Õ§Á·   1/    2
+  ÆË»÷¸ñ¶·Ö®¼¼ (unarmed)           - ³õÑ§Õ§Á·   3/    7
+  
+ÉÏÃæµÄ£º 
+£­¡¸»ù±¾ÄÚ¹¦ (force)¡¹±íÊ¾µÄÊÇÊ²Ã´¹¦·ò¡£
+£­¡¸³õÑ§Õ§Á·¡¹Ö¸µÄÊÇÎä¹¦µÈ¼¶£¬Ò»°ãÃ¿Ê®²ã±ã»áÉýÒ»¸öµÈ¼¶¡£
+£­¡¸ 1/    2¡¹Ç°ÃæµÄ£±ÊÇÖ¸Äã¶ÔÕâ²ãÎä¹¦µÄÐÞÎª¡£ÔÚÉÏÃæÀý×Ó
+  ÈËÎïµÄÄÚ¹¦ÐÞÎªÊÇµÚ¶þ²ã¡£¶øºóÃæµÄ£²ÔòÊÇÖ¸ÄãÔÚµÚ¶þ²ãÐÞÎª
+  µÄ»ù´¡ÉÏÓÖÀí½âÁË¶àÉÙ¡£µ±ÄãµÄÀí½âÖµ´ïµ½ÁË£¨£î£«£±£©^ £²
+  µÄÊ±ºò£¨ÕâÀï£îÊÇÐÞÎªµÄÉî¶È£©£¬ÄãµÄÐÞÎª¾Í»á¼ÓÉîÒ»²ã¡£
+
+¡¡¡¡Ñ§¹ýÊ²Ã´Îä¹¦²¢²»Ò»¶¨»áÔÚÕ½¶·ÖÐÓÃµ½£¬ÓÐÐ©»¹Òª enable ÒÔ
+ºó²ÅÄÜÓÃ¡£ÖÁÓÚÄÜ enable Ê²Ã´£¬¿ÉÒÔ help enable »òÏòÍ¬ÃÅ²é
+Ñ¯¡£
+
+Ïà¹ØÃüÁî£º(help learn), (help skill), (help enable)
+
+£¶¡£Ìì¸³£º
+¡¡¡¡µ±ÊäÈë score Ö¸Ê¾Ê±£¬Äã¾Í¿ÉÒÔ¿´µ½×Ô¼ºµÄÌì¸³¡£ÕâÀï½«Ìì
+¸³·ÖÎª°ËÏî¡£¹ØÓÚÌì¸³µÄ½âÊÍÔÚËµÃ÷ÎÄ¼þÖÐÒÔÌ¸µÃºÜÇå³þ£¬ÕâÀï¾Í
+²»ËµËüÃÇµÄÓÃÍ¾ÁË¡£Ïé¼û help gift¡£ÕâÀïÒª½²µÄÊÇÓÐÐ©ÈË¸ÕÀ´µÄ
+Ìì¸³²¢²»Ò»¶¨ºÜºÃ£¬µ«¼¸ÏîÖØÒªµÄ»áËæ×ÅÎä¹¦¼¼ÄÜµÄÌá¸ß¶ø¸ÄÉÆ£¬Äú
+Ôò´ó¿É²»±ØÎªÄ³ÏîÌì¸³²»ºÃ¶ø¿àÄÕ¡£
+
+Ñ§»ù±¾·¨Êõ (spells)  £º¿ÉÒÔÌá¸ßÁéÐÔ
+Ñ§»ù±¾ÄÚ¹¦ (force)   £º¿ÉÒÔ¸ÄÉÆ¸ù¹Ç
+Ñ§¶ÁÊéÊ¶×Ö (literate)£º¿ÉÒÔÌá¸ßÎòÐÔ
+
+Ïà¹ØÃüÁî£º(help gift), (help stats)
+
+£·¡£Á·¹¦£º
+¡¡¡¡µ±ÄãµÄµÀÐÐ²»×ãÒÔÏòÊ¦¸¸Ñ§Ï°¼¼ÄÜÊ±£¬¾ÍÊÇÄã³öÉ½±ÈÎäÁ·¹¦µÄ
+Ê±ºòÁË¡£ºÍ±ðÈË±ÈÎäÖ®Ç°Ò»¶¨Òª×¢Òâ¿´×Ô¼º  wimpy µÄÉè¶¨¡£Õâ
+Ïî²ÎÊýÉè¶¨µÄÊÇÒ»¸ö°Ù·Ö±È¡£µ±ÄãµÄ¾«ÆøÉñµÍÓÚÕâ¸ö±ÈÂÊÊ±ÄãµÄÈË
+Îï»á×Ô¶¯ÌÓÃü¡£ÐÂÊÖÉÏÂ·Ê±²»·Á°ÑÕâ¸ö±ÈÂÊÉèÖÃµÄ¸ßÐ©£¬50£­70£¬
+±ÜÃâÎÞÔµÎÞ¹ÊµÄ±»É±ËÀ¡£µ«ÊÇ²»Òª¹ý·ÝÒÀÀµ wimpy£¬ÓÐÊ±ºòÌÓÅÜ»á
+Ê§°Ü¡£
+
+Ïà¹ØÃüÁî£º(help set), (help unset), (help settings)
+
+ÈçºÎ²ÅÄÜ³¤µÀÐÐºÍÎäÑ§ÄØ£¿
+¡¡¡¡Ê×ÏÈ£¬µÀÐÐËù´ú±íµÄÊÇÒ»¸öÈË·¨Á¦µÄ»ýÀÛ£¬ÎäÑ§´ú±íµÄÊÇÒ»¸ö
+ÈËÎäÑ§¾­ÑéµÄ»ýÀÛ£¬ËØÖÊµÄÌá¸ßÒÔ¼°Ä³ÖÖË­Ò²Ëµ²»ÉÏÀ´µÄÁìÎò¡£ÔÚ
+ÔÂÓ°ÆæÔµÖÐÓÐ¶àÖÖ»ñµÃµÀÐÐºÍÎäÑ§µÄ·½·¨£¬ÆäÖÐÖ÷ÒªÊÇÐÞµÀºÍÕ½¶·¡£
+ÐÞµÀ°üº¬Ò»ÖÖºÜÆæÃîµÄÒòËØ£¬µÀÐÐµÄ»ñµÃ´ó¸ÅÔ´ÓÚÌåÄÜ£¬ÐÄÉñÓëÌì
+µØ¼äµÄÄ³ÖÖ¸ÐÓ¦¡£ÖÁÓÚÕ½¶·£¬ÄãÒªºÍÓë×Ô¼ºÓÐÏàÍ¬Ïà½üµÀÐÐµÄ£Î£Ð£Ã
+Õ½¶·£¬²ÅÄÜÏà»¥ÆôÚÐ¡£ºÍ±È×Ô¼ºÈõµÃÌ«¶àµÄ¶ÔÊÖÕ½¶·»òÐíÄÜ¿ªµ¼¶Ô
+·½£¬¶Ô×Ô¼º²¢ÎÞºÃ´¦¡£Ò²Ðí¸Õ¿ªÊ¼Ë­Ò²´ò²»¹ý£¬Ò»µ©ÓÐÁË¾­Ñéºó¾Í
+»áºÃµÄ¡£¶øÇÒ×¢ÒâÄÃ×ÅÎäÆ÷×ÔÈ»±È¿ÕÊÖÀúº¦£¬´©Ò»Ð©·À¾ßÒ²¿É½µµÍ
+µÐÈË¶Ô×Ô¼ºµÄÉËº¦¡£ÖÁÓÚ»¹ÓÐÆäËûµÄ¼¼ÇÉ£¬¿ÉÏò±ðµÄÍæ¼Ò²éÑ¯¼°£¬
+»ò¶ÁÒ»¶Á help hints¡£
+
+¡¡¡¡´ó²¿·ÝµÄ£Î£Ð£ÃÎä¹¦¾­ÑéÊÇ¹Ì¶¨µÄ£¬Äã¿É´Ó×îµÍµÄÒ»¸ö¸öÊÔÆð£¬
+Èç£ºÐ¡Ñ§Í¯£¬Ð¡Ñ§Í½£¬Ð¡Ñ¾»·£¬Ð¡µÀÊ¿£¬Å®º¢£¬ÄÐº¢£¬Ñ¾»·£¬»ï¼Æ¡£¡£¡£
+Äã´óÌåÉÏ¿ÉÒÔ¸ù¾ÝËûÃÇµÄÐÕÃû³ÆºôÀ´ÅÐ¶ÏËûÃÇµÄÇ¿Èõ£¬ÄÃ²»×¼Ê±¿ÉÏò
+ÀÏÍæ¼ÒÃÇÇó½Ì¡£
+
+¡¡¡¡µ«×¢ÒâÓÐÐ©ÍÁ·ËÇ¿µÁÊÇ¼ûÈË¾ÍÉ±£¬Èç¹û´ò²»¹ýµÄ»°×îºÃ³ÃÔçÁï
+Ö®´ó¼ª£¬ÒªÊÇÅÜ²»ÍÑµÄ»°£¬ÔÝÊ± quit Ò²ÊÇ¿ÉÐÐµÄ°ì·¨¡£
+
+Ïà¹ØÃüÁî£º(help damage), (help combat),
+	  (help weapon), (help armor)
+
+£¸¡£·¨Êõ£º
+¡¡¡¡·¨ÊõÊÇÔÂÓ°ÆæÔµµÄÒ»¸öÖØÒª·½Ãæ£¬´óÌåÉÏÊ¦¸¸ÃÇ¶¼»áÒ»Ð©·¨Êõ¡£
+ÄãÔÚÕýÅÉÖÐÑ§µÄ·¨ÊõÔ½¶à£¬ÄãÀë³ÉÏÉµÃµÀ¾Í½üÁËÒ»²½£¬Ïà·´£¬ÄãÔÚ
+Ð°ÅÉÖÐÐÞÁ·µÃÔ½¾Ã£¬ÄãµÄÑýÆø´ó¸Å¾ÍºÜÖØÁË¡£Ñ§ÏÉÑ§Ñý²¢Ã»ÓÐ¾ø¶Ô
+µÄºÃ»µ£¬µ±Ñý¹Ö²¢²»Ò»¶¨¾ÍÊÜÆçÊÓ£¬ÉñÏÉµÄÊÀ½çÀïÒ²ÊÇÈ­Í·´óµÄËµ
+»°¡£Äã´ó¿É¸ù¾Ý×Ô¼ºµÄ°®ºÃÑ¡Ôñ¡£ÔÂÓ°ÆæÔµÖÐµÄ·¨ÊõÓÐ¶àÖÖÓÃÍ¾£¬
+ÒÔÏÂÊÇ¼¸¸ö´óÀà£º
+
+ÐÞÐÐ£ºµ±·¨Êõµ½Ò»¶¨³Ì¶ÈÊ±¿ÉÒÔ×Ô¼ºÐÞµÀ£¬ÒÔÏûºÄ×ÔÉíÔªÆø£¬²ÉÈÕÔÂ
+      ¾«»ªÀ´ÔöÇ¿×ÔÉíµÀÐÐ¡£
+¹¥»÷£º´ó²¿·ÝÃÅÅÉÖÐµÄ·¨Êõ¶¼¿É¹¥»÷µÐÊÖ£¬ÈçÌìöªÀ×»÷£¬ÂäÈÕÉñ¼ýÖ®
+      Àà£¬Ê¹µÐÈËÔÚ¾«ÉñºÍÈâÌåÉÏÊÜµ½ÉËº¦£¬·¨ÊõµÈ¼«Ô½¸ß£¬Ð§Á¦Ô½
+      ´ó£¬Í¬Ê±£¬ÊÜµ½±ðÈË¹¥»÷ºÍÉËº¦µÄ±ÈÂÊÔ½Ð¡¡£
+·ÀÓù£ºÏÖÓÐÈçÓÄÚ¤µØ¸®µÜ×Ó¿ÉÒÔÔÚÕ½¶·ÖÐÌÓÍÑ£¬»¯ÎªÒ»¹ÉÇàÑÌ×ªÒÆµØ
+      µã£¬±ÜÃâ±»µÐÈËÉ±ËÀ¡£µ«Èç¹û¶Ô·½·¨Êõ¸ßÉîµÄ»°£¬³É¹¦µÄ»úÂÊ
+      ±ã»á¼õÐ¡¡£Ò²ÓÐÈç¶«º£Áú¹¬µÜ×Óºô»½Ò¹²æµ²×¡¶ÔÊÖ£¬¶ø×Ô¼ºÌÓ
+      Ö®Ø²Ø²£¬Ò²ÓÐÁéÌ¨ÈýÐÇ¶´µÄ·ÖÉíÊõµÈ¡£
+ÆäËüÀà£º
+      ·ÉÐÐ£º¿ÉÒÔ·Éµ½Ä³Ò»¹Ì¶¨³¡Ëù£¬Ò²ÊÇÉÏÌì¹¬µÄÎ¨Ò»Í¾¾¶¡£
+      ±ä»¯£º±ä»¯ÎªÄ³Ò»Íæ¼Ò»ò£Î£Ð£Ã£¬Ê±¼ä³¤¶ÌÓÉ·¨Á¦¾ö¶¨¡£
+      ÌìÑÛÍ¨£ºÒÔ¿´µ½Ä³Ò»Íæ¼Ò»ò£Î£Ð£ÃÔÚÊ²Ã´µØ·½¡£
+      Ìì¶úÍ¨£ºÒÔ´òÌýÄ³Ò»Íæ¼Ò»ò£Î£Ð£ÃµÄÎä¹¦£¬µÀÐÐ£¬·¨Á¦µÈ¼¶¡£
+
+Ïà¹ØÃüÁî£º(help spells), (help menpai), (help fly), (help bian)
+          (help find), (help check), (help ji) 
+
+£¹¡£Ò»Ð©³£ÓÃÃüÁî£º
+ÃüÁî¶¼»áÏÔÊ¾ÔÚ help cmds ÖÐ£¬ÕâÀï¼ò½éÒ»¶þ£¬ÒÔÇóËÙ³É¡£
+×¢£ºhelp <¸ÃÃüÁî> ¶¼¿ÉµÃµ½ÏêÏ¸µÄ½âÊÍ¡£
+
+³ÔºÈ£ºeat, drink
+ÂòÂô£ºlist, buy, sell, pawn, retrieve, get, drop
+ÒøÐÐ£ºcheck, withdraw, deposit
+ÒÂÎï£ºwear, remove, tear, bandage
+ÎäÆ÷£ºwield, unwield
+Õ½¶·£ºfight, kill, surrender, perform
+Ñ§Îä£ºskills, learn, study, practice, enable
+×ÔÉí£ºi, hp, score
+ÄÚ¹¦£ºexercise, exert, enforce
+·¨Êõ£ºmeditate, enchant, cast
+½»Á÷£ºlook, chat, rumor, tell, reply, say, ask, whisper
+ÆäËü£ºnick, describe, passwd, alias, set
+
+£±£°¡£ÓÎÏ·¹æÔò£º
+¡¡¡¡µ±È»£¬ÄúÒ²²¢²»ÊÇÎªËùÓûÎªµÄ£¬ÔÂÓ°ÆæÔµÒ²ÓÐÒ»Ð©¹æ¾Ø£¬¹æ¾Ø
+²»¶à£¬µ«Íû´ó¼ÒÑÏ¸ñ×ñÊØ¡£ÓÃ help rules ¾Í¿ÉÒÔ¿´ÓÎÏ·¹æÔò¡£
+
+©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤[35m¡¾ÔÂÓ°ÆæÔµ¡¿[2;37;0m©¤©¤©¤

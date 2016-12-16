@@ -1,0 +1,7 @@
+#/d/city/npc/manmouse.c
+dbase (["per":104,"eff_sen":506,"max_kee":110308,"str":10000,"kee":110308,"force":0,"max_gin":448,"title":"[1;37mËù³¤[2;37;0m","gin":448,"kar":11,"cor":26,"shen_type":1,"startroom":"/d/city/manwc","eff_kee":110308,"con":29,"unit":"Î»","eff_gin":448,"int":18,"mana":0,"can_speak":1,"race":"ÈËÀà","name":"[1;32mË®ÀÏÊó[2;37;0m","spi":29,"limbs":({"Í·²¿","¾±²¿","ĞØ¿Ú","ºóĞÄ","×ó¼ç","ÓÒ¼ç","×ó±Û","ÓÒ±Û","×óÊÖ","ÓÒÊÖ","Ñü¼ä","Ğ¡¸¹","×óÍÈ","ÓÒÍÈ","×ó½Å","ÓÒ½Å",}),"id":"suozhang mouse","default_actions":,"actions":,"cps":13,"gender":"ÄĞĞÔ","atman":0,"combat_exp":100000,"attitude":"friendly","max_sen":506,"sen":506,"age":26,])
+skills (["unarmed":1000,])
+learned (["unarmed":0,])
+SAVE_NAME "mouse"
+price_ratio 10
+close_time 1481808588

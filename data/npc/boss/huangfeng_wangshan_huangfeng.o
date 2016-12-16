@@ -1,0 +1,8 @@
+#/d/qujing/huangfeng/npc/wangshan.c
+dbase (["per":23,"max_kee":533,"eff_sen":231,"force_factor":5,"str":19,"kee":533,"force":200,"max_gin":243,"title":"店老板","max_force":200,"kar":15,"gin":243,"cor":23,"startroom":"/d/qujing/huangfeng/wuqidian","eff_kee":533,"con":28,"unit":"位","long":"一条精壮的汉子，剑眉星目当他目光射到你的脸上，你发现他眼中竟精光闪动，不可直视！","eff_gin":243,"vendor_goods":(["shield":"/d/obj/armor/niupi","spear":"/d/obj/weapon/spear/tieqiang","staff":"/d/obj/weapon/staff/chanzhang","sword":"/d/obj/weapon/sword/changjian","hammer":"/d/obj/weapon/hammer/tongchui","blade":"/d/obj/weapon/blade/blade",]),"int":10,"can_speak":1,"mana":0,"race":"人类","name":"王安","spi":13,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"id":"wang an","default_actions":,"actions":,"cps":11,"atman":0,"gender":"男性","combat_exp":70000,"attitude":"peaceful","max_sen":231,"sen":231,"age":25,])
+skills (["kaishan-chui":30,"dodge":50,"parry":50,"hammer":50,"jindouyun":50,"unarmed":50,])
+learned (["kaishan-chui":0,"dodge":0,"parry":0,"hammer":0,"jindouyun":0,"unarmed":0,])
+skill_map (["dodge":"jindouyun","parry":"kaishan-chui","hammer":"kaishan-chui",])
+SAVE_NAME "huangfeng_wangshan_huangfeng"
+price_ratio 10
+close_time 1481798657

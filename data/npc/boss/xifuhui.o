@@ -1,0 +1,7 @@
+#/d/city/npc/boss.c
+dbase (["per":20,"max_kee":468,"eff_sen":572,"str":14,"kee":468,"force":0,"max_gin":436,"title":"喜福会老板娘","kar":13,"gin":436,"cor":26,"startroom":"/d/city/xifuhui","eff_kee":468,"con":23,"unit":"位","eff_gin":436,"daoxing":50000,"int":24,"can_speak":1,"mana":0,"race":"人类","name":"老害虫","spi":21,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"id":"xifuhui boss","default_actions":,"actions":,"cps":14,"inquiry":(["宴":,"party":,"席":,"酒席":,"name":"在下便是这里的老板。","here":"这里是喜福会，城中大户人家结婚都要来这里摆喜宴哩。","喜宴":,"money":,]),"atman":0,"gender":"女性","combat_exp":50000,"attitude":"friendly","max_sen":572,"sen":572,"age":32,])
+skills (["dodge":100,"parry":100,"unarmed":100,])
+learned (["dodge":0,"parry":0,"unarmed":0,])
+SAVE_NAME "xifuhui"
+price_ratio 10
+close_time 1481916344

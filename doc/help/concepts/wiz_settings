@@ -1,0 +1,28 @@
+
+[1;36m¡¾ÔÂÓ°ÆæÔµÐÂÊÖ°ïÖú¡¿[2;37;0m
+
+©¤©¤©¤©¤©¤©¤©¤©¤©¤[1;31m¡¾Î×Ê¦»·¾³±äÁ¿¡¿[2;37;0m©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤
+
+
+immortal <anything>¡¡¡¡¡¡¡¡Éè¶¨×Ô¼º³ÉÎª²»ËÀÖ®Éí£¬µ±×´Ì¬´ïµ½
+¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡ »èÃÔ»òËÀÍöÊ±ÊýÖµ»áÍ£ÔÚ -1¡£
+
+invisibility <number>¡¡¡¡¡¡Éè¶¨ÒþÐÎµÄ³Ì¶È¡£ 0 - 10
+
+msg_home <anything>¡¡¡¡¡¡¡¡Éè¶¨µ±×Ô¼º´ò home »Ø¼ÒÊ±ÏÔÊ¾µÄÑ¶
+¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡ Ï¢¡£
+
+msg_min <anything>¡¡¡¡¡¡¡¡ Éè¶¨µ±Ê¹ÓÃ goto µ½´ïÄ³´¦Ê±, ±ðÈË
+¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡ Ëù¿´µ½µÄÑ¶Ï¢¡£
+
+msg_mout <anything>¡¡¡¡¡¡¡¡Éè¶¨µ±Ê¹ÓÃ goto Àë¿ªÊ±, Ô­À´·¿¼ä
+¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡ ÀïµÄÈËËù¿´µ½µÄÑ¶Ï¢¡£
+
+msg_clone <anything>¡¡¡¡¡¡ Éè¶¨µ± clone NPC »ò OBJ Ê±ËùÏÔ
+¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡ Ê¾µÄÑ¶Ï¢¡£
+
+msg_dest <anything>¡¡¡¡¡¡¡¡Éè¶¨µ± dest NPC »ò OBJ Ê±ËùÏÔÊ¾
+¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡ µÄÑ¶Ï¢¡£µ«Èç¹û¸Ã OBJÊÇ´æÔÚì¶×Ô¼º
+¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡ ÉíÉÏÊ±Ôò²»»áÓÐÑ¶Ï¢¡£
+
+©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤[35m¡¾ÔÂÓ°ÆæÔµ¡¿[2;37;0m©¤©¤©¤

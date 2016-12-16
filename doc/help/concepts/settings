@@ -1,0 +1,36 @@
+
+[1;36m¡¾ÔÂÓ°ÆæÔµÐÂÊÖ°ïÖú¡¿[2;37;0m
+
+©¤©¤©¤©¤©¤©¤©¤©¤©¤[1;31m¡¾Íæ¼Ò»·¾³±äÊý¡¿[2;37;0m©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤
+
+
+¡¡¡¡Äã¿ÉÒÔÓÃ setÖ¸ÁîÉè¶¨Ò»Ð©ÓÐÓÃµÄ»·¾³±äÊý£¬ÕâÐ©±äÊýÒ²»áËæ
+×ÅÄãµÄÈËÎï±»´¢´æÏÂÀ´£¬Èç¹ûÓÐ²»ÐèÒªµÄ»·¾³±äÊý£¬Ò²¿ÉÒÔÓÃ 
+unsetÉ¾³ý¡£ÏêÏ¸µÄÊ¹ÓÃ·½·¨Çë¿´ help set ¼° help unset¡£
+
+ÒÔÏÂÊÇÄ¿Ç°ÓÐÓÃµÄ»·¾³±äÊý£º
+
+block_tell      <ÈÎºÎ·ÇÁãµÄÖµ>  µ±Äã²»Ô¸ÒâºÍ±ðÈËtalkÊ±¡£
+
+brief           <ÈÎºÎ·ÇÁãµÄÖµ>  Éè¶¨ÒÆ¶¯Ê±Ö»¿´ËùÔÚµØ¼ò¶ÌµÄ
+                                Ãû³Æ£¬Èç¹ûÄúµÄÍøÂ·ËÙ¶È²»ÊÇ
+                                ºÜ¿ì£¬»òÕßÊÇ¶ÔÇøÓòÒÑ¾­Ê®·Ö
+                                ÊìÏ¤£¬½¨ÒéÄú´ò¿ª briefÄ£Ê½
+                                ÒÔ¼õÇáÍøÂ·¸ºµ£¡£
+
+brief_message                   Éè¶¨Õ½¶·Ê±²»ÏÔÊ¾³É¹¦µÄdodge
+                                ºÍparry£¬ÒÔ¼õÉÙ²»±ØÒªµÄÔö¼Ó
+                                ÍøÂ·¸ºµ£¡£
+
+no_teach        <ÈÎºÎ·ÇÁãµÄÖµ>  Éè¶¨ÄãÏÖÔÚ²»½ÌÄãµÄÍ½µÜ¼¼ÄÜ£¬
+                                ÓÉÓÚ½ÌÍ½µÜÒª»¨·ÑÒ»Ð©¾«Éñ£¬µ±
+                                Í½µÜ²»¹ÔµÄÊ±ºò£®£®£®
+
+no_accept       <ÈÎºÎ·ÇÁãµÄÖµ>¡¡Éè¶¨ÄãÏÖÔÚ²»½ÓÊÜÈÎºÎÈËµÄÀñÎï¡£
+
+public          <ÈÎºÎ·ÇÁãµÄÖµ>  ¶Ô±ðÈË¹«¿ªÄãÉè¶¨µÄ email µØÖ·¡£
+
+wimpy           <°Ù·Ö±È>        µ±ÄúµÄ¾«ÆøÉñµÍÓÚÕâ¸ö°Ù·Ö±ÈÊ±
+                                ¾Í»á×Ô¶¯ÕÒ»ú»áÌÓÃü¡£
+¡¡
+©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤[35m¡¾ÔÂÓ°ÆæÔµ¡¿[2;37;0m©¤©¤©¤

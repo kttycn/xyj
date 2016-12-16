@@ -1,0 +1,7 @@
+#/d/qujing/firemount/npc/vendor.c
+dbase (["limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"str":21,"sen":322,"gin":20,"combat_exp":15000,"shop_id":({"xiaofan","vendor",}),"kee":294,"can_speak":1,"attitude":"peaceful","max_kee":294,"eff_gin":21,"startroom":"/d/qujing/firemount/xiaodian","cps":26,"force":0,"chat_chance":40,"int":21,"atman":0,"max_gin":204,"eff_kee":294,"age":18,"cor":30,"chat_msg":({"卖西瓜！～～","卖烤鸡！～～","卖葡萄干！～～","卖葫芦！～～","卖酒袋！～～",,}),"con":22,"actions":,"unit":"位","spi":26,"default_actions":,"per":12,"vendor_goods":(["hulu":"/d/obj/food/hulu","kaoji":"/d/obj/food/kaoji","jiudai":"/d/obj/food/niupi-jiudai","watermelon":"/d/obj/food/watermelon","putaogan":"/d/obj/food/putaogan",]),"mana":0,"race":"人类","id":"vendor","long":"一位少年男子，正推着一辆红车儿。","name":"小贩","eff_sen":322,"gender":"男性","max_sen":322,"kar":13,])
+skills (["dodge":30,])
+learned (["dodge":0,])
+SAVE_NAME "firemount_vendor"
+price_ratio 10
+close_time 1481192742

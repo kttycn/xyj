@@ -1,0 +1,3 @@
+#/obj/user.c
+dbase (["default_actions":,"race":"人类","max_sen":250,"lost_quit":1451962389,"last_save":1451962383,"kar":20,"combat_exp":500,"str":20,"gin":100,"daoxing":500,"unit":"位","id":"kkk","cps":29,"max_gin":100,"kee":200,"int":25,"eff_gin":100,"max_kee":200,"actions":,"cor":15,"mud_age":1,"con":20,"attitude":"peaceful","age":14,"spi":25,"life":(["life_time":71,"init_life_time":71,]),"per":16,"can_speak":1,"eff_kee":200,"eff_sen":250,"title":"普通百姓","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"birthday":1451962359,"name":"金","no_magic":1,"potential":299,"gender":"男性","food":300,"startroom":"/d/city/kezhan","water":300,"channels":({"chat","rumor","moon","sldh","es","new","yyqy",}),"sen":250,])
+autoload ({})

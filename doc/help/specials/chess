@@ -1,0 +1,23 @@
+
+[1;36m¡¾ÔÂÓ°ÆæÔµÌØ±ð°ïÖú¡¿[2;37;0m
+
+©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤[1;31m¡¾ÏÂÆå¡¿[2;37;0m©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤
+
+´Ó³¤°²ÄÏÃÅÑØºÓÏò¶«¿ÉÒÔÑ°µ½Æ·ÆåÍ¤£¬ÔÚÆ·ÆåÍ¤ÀïÄú¿ÉÒÔÏÂÎ§Æå»òÎå×ÓÆå¡£
+
+ÏÂÆåµÄ²½Öè£º
+
+Ò»¡¢ÏÈÕÒºÃ¶ÔÊÖ£¬È»ºó·Ö±ðÓÃ sit black ºÍ sit white Èë×ù£»
+¶þ¡¢Ê¹ÓÃ new ¿ªÊ¼Ò»ÅÌÐÂµÄÆå¾Ö£ºnew [-5] [-b(numbers)] [-h(numbers)]
+    ÆäÖÐ -5 ´ú±íÏÂÎå×ÓÆå£¬²»Ñ¡¼´ÎªÏÂÎ§Æå£»
+¡¡¡¡-bÖ¸¶¨ËùÓÃÆåÅÌµÄ´óÐ¡£»
+    -hÖ¸¶¨ÈÃ×ÓµÄÊýÄ¿£»
+¡¡¡¡ÀýÈç£º
+¡¡¡¡Î§Æå£ºnew
+¡¡¡¡Ê®Îå³ËÊ®ÎåµÄÎå×ÓÆå£ºnew -5 -b15
+¡¡¡¡ÈÃ¾Å×ÓÎ§Æå£ºnew -h9
+Èý¡¢Ê¹ÓÃ play ÂÖÁ÷×ßÆå£ºÀýÈç play d4 µÈµÈ¡£
+ËÄ¡¢Ê¹ÓÃ refresh¹Û¿´ÆåÅÌ¡£
+Îå¡¢Ê¹ÓÃ undo »ÚÆå¡£(Ä¿Ç°Ö»Ìá¹©Îå×ÓÆåµÄ»ÚÆå¹¦ÄÜ¡£)
+
+©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤[35m¡¾ÔÂÓ°ÆæÔµ¡¿[2;37;0m©¤©¤©¤
